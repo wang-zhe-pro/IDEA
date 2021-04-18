@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e6184f8-ada6-49ea-811f-1c74b5eafe65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/MigLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/miglayout-core-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/miglayout-core-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/miglayout-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/miglayout-swing-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/miglayout-swing-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lib/miglayout-swing.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/GUI.hi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/GUI/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业2/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业2/Rect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业2/Srec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/实验作业2/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/异常处理综合应用/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/异常处理综合应用/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/异常处理综合应用/IShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/异常处理综合应用/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/异常处理综合应用/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/异常处理综合应用/ShapeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/异常处理综合应用/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/接口/Charger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/接口/ICharger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/接口/SportsEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/接口/Telephone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/日常学习测试/MyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/日常学习测试/Wtest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/线程/exam01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/通信录/Scoredeal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/src/通信录/Students.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1tNmnpJvYlVmhI9mbkmdHMax3pW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6184f8-ada6-49ea-811f-1c74b5eafe65" name="Default Changelist" comment="" />
+      <created>1622618090506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622618090506</updated>
+      <workItem from="1622618091655" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
