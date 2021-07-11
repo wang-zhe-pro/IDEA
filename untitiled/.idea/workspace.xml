@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c765c39-fb95-416a-92cb-842234a26945" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/MigLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/miglayout-core-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/miglayout-core-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/miglayout-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/miglayout-swing-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/miglayout-swing-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/miglayout-swing.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/GUI.hi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/GUI/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业2/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业2/Rect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业2/Srec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/实验作业2/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/异常处理综合应用/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/异常处理综合应用/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/异常处理综合应用/IShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/异常处理综合应用/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/异常处理综合应用/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/异常处理综合应用/ShapeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/异常处理综合应用/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/接口/Charger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/接口/ICharger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/接口/SportsEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/接口/Telephone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/日常学习测试/MyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/日常学习测试/Wtest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/线程/exam01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/通信录/Scoredeal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/通信录/Students.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rSpaq4Iwy0UzheJAaqE6j4RNno" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA作业/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.Calculator" />
+      <module name="Java学习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.LoginWindow" />
+      <module name="Java学习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="异常处理综合应用.MainClass" />
+      <module name="Java学习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="异常处理综合应用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenGaussConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.OpenGaussConnection" />
+      <module name="Java学习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileTest.SwingDemo" />
+      <module name="Java学习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.LoginWindow" />
+        <item itemvalue="Application.OpenGaussConnection" />
+        <item itemvalue="Application.SwingDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c765c39-fb95-416a-92cb-842234a26945" name="Default Changelist" comment="" />
+      <created>1618979411585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618979411585</updated>
+      <workItem from="1618979412680" duration="16912000" />
+      <workItem from="1619139400370" duration="16030000" />
+      <workItem from="1619448196785" duration="408000" />
+      <workItem from="1619502832017" duration="634000" />
+      <workItem from="1620304944034" duration="1000000" />
+      <workItem from="1620573504267" duration="3110000" />
+      <workItem from="1620607148752" duration="10729000" />
+      <workItem from="1620652727279" duration="4013000" />
+      <workItem from="1620660242427" duration="17000" />
+      <workItem from="1620736198573" duration="1992000" />
+      <workItem from="1620884494467" duration="6544000" />
+      <workItem from="1621155904105" duration="4413000" />
+      <workItem from="1621237837514" duration="2877000" />
+      <workItem from="1621325970533" duration="50000" />
+      <workItem from="1621347011363" duration="10922000" />
+      <workItem from="1621419354657" duration="1496000" />
+      <workItem from="1621421341171" duration="1270000" />
+      <workItem from="1621955853510" duration="622000" />
+      <workItem from="1622041838526" duration="913000" />
+      <workItem from="1622081179453" duration="7225000" />
+      <workItem from="1622261903917" duration="643000" />
+      <workItem from="1622288401651" duration="1654000" />
+      <workItem from="1622525424557" duration="5708000" />
+      <workItem from="1622546871826" duration="6618000" />
+      <workItem from="1622560501102" duration="1228000" />
+      <workItem from="1622616231180" duration="24000" />
+      <workItem from="1622617429253" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
